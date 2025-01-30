@@ -10,14 +10,6 @@
     <a href="index3.php">
         <button>zadanie 5</button>
     </a>
-<form method="post" action="skrypt.php">
-    <input type="text" name="imie">
-    <input type="text" name="nazwisko">
-    <input type="number" name="ocena">
-    <input type="number" name="wiek">
-    <input type="number" name="id">
-    <button type="submit">wyslij</button>
-</form>
 </body>
 </html>
 
