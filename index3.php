@@ -7,14 +7,7 @@
     <title>zadanie 4</title>
 </head>
 <body>
-<form method="post" action="skrypt.php">
-    <input type="text" name="imie">
-    <input type="text" name="nazwisko">
-    <input type="number" name="ocena">
-    <input type="number" name="wiek">
-    <input type="number" name="id">
-    <button type="submit">wyslij</button>
-</form>
+
 </body>
 </html>
 
