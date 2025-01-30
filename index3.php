@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="styl.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pierwsze kroki</title>
+    <title>zadanie 4</title>
 </head>
 <body>
 <form method="post" action="skrypt.php">
